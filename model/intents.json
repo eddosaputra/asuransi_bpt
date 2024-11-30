@@ -1,0 +1,181 @@
+{
+    "intents": [
+      {
+        "tag": "asuransi_umum",
+        "patterns": [
+          "Apa itu asuransi?",
+          "Bagaimana cara kerja asuransi?",
+          "Apa yang dimaksud dengan asuransi?",
+          "Jelaskan tentang asuransi",
+          "Kenapa kita perlu asuransi?",
+          "Apakah asuransi itu penting?",
+          "Asuransi apa saja yang tersedia?"
+        ],
+        "responses": [
+          "Asuransi adalah suatu bentuk perlindungan finansial yang diberikan oleh perusahaan asuransi terhadap risiko yang dihadapi oleh nasabah, seperti kecelakaan, kerusakan, atau kehilangan."
+        ]
+      },
+      {
+        "tag": "asuransi_kesehatan",
+        "patterns": [
+          "Apa itu asuransi kesehatan?",
+          "Bagaimana cara kerja asuransi kesehatan?",
+          "Mengapa saya perlu asuransi kesehatan?",
+          "Apa manfaat memiliki asuransi kesehatan?",
+          "Apa saja yang ditanggung oleh asuransi kesehatan?",
+          "Asuransi kesehatan seperti apa yang cocok untuk keluarga?",
+          "Bagaimana cara klaim asuransi kesehatan?"
+        ],
+        "responses": [
+          "Asuransi kesehatan adalah jenis asuransi yang memberikan perlindungan terhadap biaya pengobatan dan perawatan medis. Asuransi ini dapat menanggung biaya rumah sakit, obat-obatan, hingga pemeriksaan medis."
+        ]
+      },
+      {
+        "tag": "asuransi_jiwa",
+        "patterns": [
+          "Apa itu asuransi jiwa?",
+          "Mengapa saya perlu asuransi jiwa?",
+          "Apa manfaat asuransi jiwa?",
+          "Apa yang dilindungi dalam asuransi jiwa?",
+          "Bagaimana cara kerja asuransi jiwa?",
+          "Apa perbedaan asuransi jiwa dan asuransi kesehatan?",
+          "Asuransi jiwa apa yang terbaik?"
+        ],
+        "responses": [
+          "Asuransi jiwa adalah produk asuransi yang memberikan perlindungan finansial kepada ahli waris atau keluarga jika tertanggung meninggal dunia. Beberapa jenis asuransi jiwa juga menawarkan nilai tunai atau investasi."
+        ]
+      },
+      {
+        "tag": "asuransi_mobil",
+        "patterns": [
+          "Apa itu asuransi mobil?",
+          "Mengapa saya perlu asuransi mobil?",
+          "Apa saja yang ditanggung oleh asuransi mobil?",
+          "Asuransi mobil jenis apa yang terbaik?",
+          "Bagaimana cara memilih asuransi mobil?",
+          "Apakah asuransi mobil menanggung kerusakan akibat kecelakaan?",
+          "Apa yang tidak ditanggung oleh asuransi mobil?"
+        ],
+        "responses": [
+          "Asuransi mobil adalah jenis asuransi yang memberikan perlindungan terhadap kerusakan atau kehilangan mobil akibat kecelakaan, pencurian, atau bencana alam. Asuransi ini dapat meliputi kerusakan kendaraan dan biaya perbaikan."
+        ]
+      },
+      {
+        "tag": "asuransi_perjalanan",
+        "patterns": [
+          "Apa itu asuransi perjalanan?",
+          "Mengapa perlu asuransi perjalanan?",
+          "Apa saja yang ditanggung oleh asuransi perjalanan?",
+          "Bagaimana cara membeli asuransi perjalanan?",
+          "Apa manfaat asuransi perjalanan?",
+          "Apakah asuransi perjalanan mengcover pembatalan tiket?",
+          "Berapa lama waktu yang dibutuhkan untuk klaim asuransi perjalanan?"
+        ],
+        "responses": [
+          "Asuransi perjalanan adalah jenis asuransi yang memberikan perlindungan selama perjalanan, seperti pembatalan perjalanan, kehilangan barang, atau kecelakaan saat bepergian."
+        ]
+      },
+      {
+        "tag": "proses_klaim",
+        "patterns": [
+          "Bagaimana cara mengajukan klaim asuransi?",
+          "Apa yang harus dilakukan untuk klaim asuransi?",
+          "Proses klaim asuransi seperti apa?",
+          "Berapa lama proses klaim asuransi?",
+          "Apa saja dokumen yang dibutuhkan untuk klaim asuransi?",
+          "Apa yang harus saya lakukan jika klaim saya ditolak?",
+          "Mengapa klaim asuransi saya tidak disetujui?"
+        ],
+        "responses": [
+          "Untuk mengajukan klaim asuransi, Anda perlu menghubungi perusahaan asuransi dan mengisi formulir klaim. Biasanya Anda juga perlu menyertakan dokumen pendukung seperti laporan medis, foto kerusakan, atau bukti lainnya tergantung jenis asuransi."
+        ]
+      },
+      {
+        "tag": "asuransi_dengan_investasi",
+        "patterns": [
+          "Apa itu asuransi dengan investasi?",
+          "Apa keuntungan asuransi dengan investasi?",
+          "Bagaimana cara kerja asuransi dengan investasi?",
+          "Apakah asuransi dengan investasi menguntungkan?",
+          "Apa bedanya asuransi jiwa dan asuransi dengan investasi?",
+          "Asuransi dengan investasi apa yang terbaik?",
+          "Bagaimana cara memilih asuransi dengan investasi?"
+        ],
+        "responses": [
+          "Asuransi dengan investasi adalah produk asuransi yang menggabungkan perlindungan asuransi jiwa dengan potensi investasi. Sebagian dari premi yang dibayar digunakan untuk investasi, yang dapat memberikan keuntungan finansial di masa depan."
+        ]
+      },
+      {
+        "tag": "asuransi_pendidikan",
+        "patterns": [
+          "Apa itu asuransi pendidikan?",
+          "Mengapa saya perlu asuransi pendidikan?",
+          "Apa manfaat asuransi pendidikan?",
+          "Bagaimana cara kerja asuransi pendidikan?",
+          "Apa yang ditanggung oleh asuransi pendidikan?",
+          "Apakah asuransi pendidikan menjamin biaya kuliah?",
+          "Asuransi pendidikan mana yang terbaik?"
+        ],
+        "responses": [
+          "Asuransi pendidikan adalah produk asuransi yang dirancang untuk membantu membayar biaya pendidikan anak di masa depan. Asuransi ini memberikan manfaat berupa dana pendidikan yang dapat digunakan untuk biaya sekolah atau kuliah."
+        ]
+      },
+      {
+        "tag": "asuransi_rumah",
+        "patterns": [
+          "Apa itu asuransi rumah?",
+          "Mengapa saya perlu asuransi rumah?",
+          "Apa saja yang ditanggung oleh asuransi rumah?",
+          "Bagaimana cara klaim asuransi rumah?",
+          "Asuransi rumah apa yang terbaik?",
+          "Apa yang tidak ditanggung oleh asuransi rumah?"
+        ],
+        "responses": [
+          "Asuransi rumah adalah jenis asuransi yang memberikan perlindungan terhadap kerusakan atau kehilangan properti akibat bencana alam, kebakaran, atau pencurian. Asuransi ini dapat menanggung biaya perbaikan atau penggantian barang-barang yang rusak."
+        ]
+      },
+      {
+        "tag": "asuransi_hewan_peliharaan",
+        "patterns": [
+          "Apa itu asuransi hewan peliharaan?",
+          "Mengapa saya perlu asuransi hewan peliharaan?",
+          "Apa manfaat asuransi hewan peliharaan?",
+          "Apa saja yang ditanggung oleh asuransi hewan peliharaan?",
+          "Bagaimana cara klaim asuransi hewan peliharaan?",
+          "Asuransi hewan peliharaan jenis apa yang terbaik?"
+        ],
+        "responses": [
+          "Asuransi hewan peliharaan adalah produk asuransi yang memberikan perlindungan terhadap biaya perawatan dan pengobatan hewan peliharaan, seperti biaya dokter hewan atau rawat inap akibat kecelakaan atau penyakit."
+        ]
+      },
+      {
+        "tag": "asuransi_pensiun",
+        "patterns": [
+          "Apa itu asuransi pensiun?",
+          "Bagaimana cara kerja asuransi pensiun?",
+          "Mengapa saya perlu asuransi pensiun?",
+          "Apa manfaat asuransi pensiun?",
+          "Asuransi pensiun siapa yang terbaik?",
+          "Berapa besar dana pensiun yang bisa saya terima?"
+        ],
+        "responses": [
+          "Asuransi pensiun adalah jenis asuransi yang membantu menyiapkan dana untuk masa pensiun Anda. Asuransi ini memberikan manfaat berupa pembayaran berkala setelah pensiun, agar Anda tetap dapat memenuhi kebutuhan hidup setelah berhenti bekerja."
+        ]
+      },
+      {
+        "tag": "asuransi_kerja",
+        "patterns": [
+          "Apa itu asuransi kerja?",
+          "Mengapa saya perlu asuransi kerja?",
+          "Apa saja yang ditanggung oleh asuransi kerja?",
+          "Bagaimana cara klaim asuransi kerja?",
+          "Apakah asuransi kerja mencakup kecelakaan di tempat kerja?",
+          "Asuransi kerja apa yang disarankan untuk pekerja?"
+        ],
+        "responses": [
+          "Asuransi kerja adalah jenis asuransi yang disediakan oleh perusahaan untuk melindungi karyawan dari risiko yang terjadi selama bekerja, seperti kecelakaan kerja, penyakit akibat pekerjaan, atau kehilangan pekerjaan."
+        ]
+      }
+    ]
+  }
+  
